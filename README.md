@@ -15,7 +15,7 @@ O IAM é o serviço responsável pela segurança e controle de acesso, nele cons
 </p>
 <hr></hr>
 
-Foi apresentado o site <a href="https://draw.io">Draw.io</a>
+Foi apresentado o site <a href="https://draw.io">Draw.io</a> para fazer diagramas de serviços da AWS, para apresentações de propostas, e serve como se fosse um guia para visualizar como as coisas estão funcionando.
 <p align="center">
 <img width="783" height="725" alt="image" src="https://github.com/user-attachments/assets/cdbcb1d5-e72c-47bd-8b36-7ed58b53ad2b" />
   <em>Figura 3 - Diagrama AWS</em>
